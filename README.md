@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Kaushal Soni
 🔭 I’m currently working on fullstack web development<br>👯 I’m looking to collaborate on instagram<br>🌱 I’m currently learning<br>
 
 
