@@ -1,5 +1,5 @@
 #  Kaushal Soni
-🔭 I’m currently working on fullstack web development<br>👯 I’m looking to collaborate on linkedin.<br>
+🔭 I’m currently working on fullstack web development<br>👯 I’m looking to collaborate on linkedin<br>
 
 
 ## 🌐 Socials:
