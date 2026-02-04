@@ -1,5 +1,9 @@
-#  Kaushal Soni
-🔭 I’m currently working on fullstack web development<br>👯 I’m looking to collaborate on linkedin<br>
+<h3 align="center"> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="21"></a>I'am Kaushal Soni - Full Stack Engineer <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
+</h3> 
+
+
+🔭 I’m currently working at Vrinsoft Technology as Backend Engineer <br>👯 I’m looking to collaborate on linkedIn<br>
 
 
 ## 🌐 Socials:
